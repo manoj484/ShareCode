@@ -1,0 +1,511 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator"
+content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" /><script
+ type="text/javascript">
+//<![CDATA[
+        ie4up=false;
+        var agt = navigator.userAgent.toLowerCase();
+        var major = parseInt(navigator.appVersion);
+        if ((agt.indexOf('msie') != -1) && (major >= 4))
+            ie4up = true;
+    //]]>
+</script>
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+        <!--
+        function doGraphDrilldown_(event, brch, offsetX, offsetY, pageNumber) {
+        if (ie4up)
+            alert('brch=' + brch + '&coord=' + (event.offsetX*15 / 1 
++parseInt(offsetX)) + '-' + (event.offsetY*15 / 1 +parseInt(offsetY)) + 
+'&pagenumber=' + pageNumber )
+        else
+            alert('brch=' + brch + '&coord=' + (event.layerX*15 / 1 
++parseInt(offsetX)) + '-'  + (event.layerY*15 / 1 +parseInt(offsetY)) + 
+'&pagenumber=' + pageNumber )
+        }
+        // -->
+    //]]>
+</script>
+<style type="text/css">
+/*<![CDATA[*/
+    div {position:absolute; z-index:25}
+    a {text-decoration:none}
+    a img {border-style:none; border-width:0}
+        .fc634135031617067069-0 {font-size:17pt;color:#FFFFFF;font-family:Verdana;font-weight:bold;}
+        .fc634135031617067069-1 {font-size:8pt;color:#000000;font-family:Verdana;font-weight:normal;}
+        .fc634135031617067069-2 {font-size:8pt;color:#000000;font-family:Verdana;font-weight:bold;}
+        .fc634135031617067069-3 {font-size:8pt;color:#000000;font-family:Verdana;font-weight:bold;text-decoration:underline;}
+        .ad634135031617067069-0 {background-color:#004080;layer-background-color:#004080;border-color:#000000;border-style:solid;border-width:0px;border-left-style:solid;border-left-width:1;border-right-style:solid;border-right-width:1;border-top-style:solid;border-top-width:1;border-bottom-style:solid;border-bottom-width:1;}
+        .ad634135031617067069-1 {border-color:#000000;border-style:solid;border-width:0px;border-left-style:solid;border-left-width:1;border-right-style:solid;border-right-width:1;border-top-style:solid;border-top-width:1;border-bottom-style:solid;border-bottom-width:1;}
+        .ad634135031617067069-2 {border-color:#000000;border-left-width:0;border-right-width:0;border-top-width:0;border-bottom-width:0;}
+/*]]>*/
+</style>
+<title>Crystal Report Viewer</title>
+</head>
+<body bgcolor="FFFFFF" leftmargin="31" topmargin="31">
+<div style="position:absolute; top:31px; left:31px;">
+<div id="Line1"
+style="z-index:30;top:60px;left:24px;border-color:#000000;border-style:solid;border-width:0px;border-top-width:1px;width:691px;"></div>
+<div id="Line2"
+style="z-index:30;top:128px;left:28px;border-color:#000000;border-style:solid;border-width:0px;border-top-width:1px;width:691px;"></div>
+<div id="Section1" class=".body"
+style="z-index:5;clip:rect(0px,768px,131px,0px);top:0px;left:0px;width:768px;height:131px;"></div>
+<div id="Text9" title="Text Object"
+style="z-index:5;top:12px;left:28px;width:693px;height:34px;background-color:#000000;layer-background-color:#000000;"></div>
+<div class="ad634135031617067069-0"
+style="top:8px;left:24px;width:693px;height:34px;">
+<table width="688px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-0">
+DMS&#160;Information&#160;Sheet</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="SNName1" title="UpLoadCoverSheet.SNName (String)"
+class="ad634135031617067069-1"
+style="top:72px;left:160px;width:264px;height:15px;">
+<table width="259px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">
+POWER&#160;CORPORATION&#160;OF&#160;CANADA</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text1" title="Text Object" class="ad634135031617067069-2"
+style="top:72px;left:32px;width:120px;height:15px;">
+<table width="120px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">SingleName</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text2" title="Text Object" class="ad634135031617067069-2"
+style="top:72px;left:432px;width:130px;height:15px;">
+<table width="130px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">SingleName&#160;SRF</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="SNSRF1" title="UpLoadCoverSheet.SNSRF (String)"
+class="ad634135031617067069-1"
+style="top:73px;left:569px;width:144px;height:15px;">
+<table width="139px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">613683382</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text3" title="Text Object" class="ad634135031617067069-2"
+style="top:104px;left:32px;width:120px;height:15px;">
+<table width="120px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">BorrowerName</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text4" title="Text Object" class="ad634135031617067069-2"
+style="top:104px;left:432px;width:130px;height:15px;">
+<table width="130px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Borrower&#160;SRF</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="BorName1" title="UpLoadCoverSheet.BorName (String)"
+class="ad634135031617067069-1"
+style="top:104px;left:160px;width:264px;height:15px;">
+<table width="259px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">M</td>
+<td class="fc634135031617067069-1">.</td>
+<td class="fc634135031617067069-1">R</td>
+<td class="fc634135031617067069-1">.</td>
+<td class="fc634135031617067069-1">S</td>
+<td class="fc634135031617067069-1">.&#160;</td>
+<td class="fc634135031617067069-1">TRUST&#160;COMPANY</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="BorSRF1" title="UpLoadCoverSheet.BorSRF (String)"
+class="ad634135031617067069-1"
+style="top:104px;left:570px;width:144px;height:15px;">
+<table width="139px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">763508074</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Section2" class=".body"
+style="z-index:5;clip:rect(0px,768px,15px,0px);top:131px;left:0px;width:768px;height:15px;"></div>
+<div id="Section3" class=".body"
+style="z-index:5;clip:rect(0px,768px,527px,0px);top:145px;left:0px;width:768px;height:527px;"></div>
+<div id="Definition1" title="UpLoadCoverSheet.Definition (String)"
+class="ad634135031617067069-1"
+style="top:249px;left:34px;width:666px;height:15px;">
+<table width="661px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">
+KYC&#160;for&#160;New&#160;RBC&#160;Business&#160;Client&#160;form&#160;</td>
+<td class="fc634135031617067069-1">-&#160;</td>
+<td class="fc634135031617067069-1">Exempt</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text6" title="Text Object" class="ad634135031617067069-2"
+style="top:153px;left:32px;width:115px;height:15px;">
+<table width="115px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Document&#160;Type</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text8" title="Text Object" class="ad634135031617067069-2"
+style="top:224px;left:32px;width:264px;height:15px;">
+<table width="264px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-3">Document&#160;Decription</td>
+<td class="fc634135031617067069-3">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text10" title="Text Object" class="ad634135031617067069-2"
+style="top:332px;left:32px;width:206px;height:15px;">
+<table width="206px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-3">Document&#160;Details</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text11" title="Text Object" class="ad634135031617067069-2"
+style="top:359px;left:302px;width:52px;height:15px;">
+<table width="52px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">DocId</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text12" title="Text Object" class="ad634135031617067069-2"
+style="top:384px;left:32px;width:86px;height:15px;">
+<table width="86px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Value</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text13" title="Text Object" class="ad634135031617067069-2"
+style="top:384px;left:302px;width:96px;height:15px;">
+<table width="96px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Currency</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text14" title="Text Object" class="ad634135031617067069-2"
+style="top:408px;left:32px;width:116px;height:15px;">
+<table width="116px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Document&#160;Date</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text15" title="Text Object" class="ad634135031617067069-2"
+style="top:408px;left:302px;width:96px;height:15px;">
+<table width="96px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">ExpireDate</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text16" title="Text Object" class="ad634135031617067069-2"
+style="top:432px;left:32px;width:86px;height:15px;">
+<table width="86px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Scan&#160;Date</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text18" title="Text Object" class="ad634135031617067069-2"
+style="top:456px;left:32px;width:105px;height:15px;">
+<table width="105px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Date&#160;Received</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text19" title="Text Object" class="ad634135031617067069-2"
+style="top:456px;left:302px;width:96px;height:15px;">
+<table width="96px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">DateReturned</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="DocumentationTypeDescription1"
+title="UpLoadCoverSheet.DocumentationTypeDescription (String)"
+class="ad634135031617067069-1"
+style="top:153px;left:160px;width:499px;height:15px;">
+<table width="494px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">KYC&#160;</td>
+<td class="fc634135031617067069-1">-&#160;</td>
+<td class="fc634135031617067069-1">Know&#160;Your&#160;Client</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="DocId" title="UpLoadCoverSheet.DMSId (Number)"
+class="ad634135031617067069-1"
+style="top:357px;left:425px;width:89px;height:15px;">
+<table width="84px" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">230587</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="DocDate1" title="UpLoadCoverSheet.DocDate (DateTime)"
+class="ad634135031617067069-1"
+style="top:408px;left:153px;width:129px;height:15px;">
+<table width="124px" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">02/01/2010</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text23" title="Text Object" class="ad634135031617067069-2"
+style="top:488px;left:32px;width:276px;height:15px;">
+<table width="276px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-3">Document&#160;Comments</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text17" title="Text Object" class="ad634135031617067069-2"
+style="top:360px;left:32px;width:86px;height:15px;">
+<table width="86px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Facility&#160;Id</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="DocHeld1" title="UpLoadCoverSheet.DocHeld (String)"
+class="ad634135031617067069-1"
+style="top:433px;left:425px;width:133px;height:15px;">
+<table width="128px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">Toronto</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Text22" title="Text Object" class="ad634135031617067069-2"
+style="top:431px;left:302px;width:112px;height:15px;">
+<table width="112px" border="0" cellpadding="0" cellspacing="0px">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-2">Document&#160;Held</td>
+<td class="fc634135031617067069-2">:</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="PrintDate1" title="PrintDate (Date)"
+class="ad634135031617067069-1"
+style="top:432px;left:153px;width:126px;height:15px;">
+<table width="121px" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="fc634135031617067069-1">06/30/2010</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="Section4" class=".body"
+style="z-index:5;clip:rect(0px,768px,64px,0px);top:672px;left:0px;width:768px;height:64px;"></div>
+<div id="Section5" class=".body"
+style="z-index:5;clip:rect(0px,768px,64px,0px);top:945px;left:0px;width:768px;height:64px;"></div>
+</div>
+</body>
+</html>
